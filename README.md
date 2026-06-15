@@ -11,7 +11,7 @@ A production-grade analytics dashboard built with React, Redux Toolkit, and WebS
 
 ## 🚀 Live Demo
 
-> [View on Vercel →](https://your-demo-link.vercel.app) *(deploy and update this link)*
+> [View on Vercel →](https://realtime-analytics-dashboard-two.vercel.app/)
 
 ---
 
